@@ -6,9 +6,14 @@ everyone on board, except the captain, in one click:
 - **"Assign all crew as service crew"**
 - **"Assign all crew as marines"**
 
-![Crew panel](Before.png)
+**Before** (vanilla crew panel):
 
-The buttons sit directly above **Confirm / Reset**, in the area marked in red above.
+![Crew panel before](Before.png)
+
+**After** (with this mod): the buttons sit directly above **Confirm / Reset**, in the area marked
+in red. Here all crew are already service crew, so that button is greyed out.
+
+![Crew panel after](After.png)
 
 ## Behaviour
 
