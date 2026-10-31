@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="x4_ext_assign_crew"
+         name="Assign Crew"
+         description="Adds two buttons to the ship crew panel (Map > Information > Crew) that assign all crew except the captain as either service crew or marines."
+         author="Therapiestation"
+         version="100"
+         date="2026-10-31"
+         save="0"
+         enabled="1"
+         sync="false">
+    <dependency version="900" />
+    <text language="49"
+          name="Crew zuweisen"
+          description="Fügt dem Crew-Bereich eines Schiffs (Karte > Information > Crew) zwei Schaltflächen hinzu, die die gesamte Crew außer dem Kapitän als Servicecrew bzw. Marines einteilen." />
+</content>
