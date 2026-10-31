@@ -1,10 +1,10 @@
 # Assign Crew (X4: Foundations)
 
-Adds two buttons to a ship's crew panel (**Map → Information → Crew**). Each one reassigns
+Adds two buttons to a ship's crew panel (**Map > Information > Crew**). Each one reassigns
 everyone on board, except the captain, in one click:
 
-- **All → Service crew**
-- **All → Marines**
+- **"Assign all crew as service crew"**
+- **"Assign all crew as marines"**
 
 ![Crew panel](Before.png)
 

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language id="49">
   <page id="1739420" title="Assign Crew" descr="UI texts for x4_ext_assign_crew" voice="no">
-    <t id="1">Alle → Servicecrew</t>
-    <t id="2">Alle → Marines</t>
+    <t id="1">Gesamte Crew als Servicecrew</t>
+    <t id="2">Gesamte Crew als Marines</t>
     <t id="3">Weist sofort alle Crewmitglieder an Bord (außer dem Kapitän) der Servicecrew zu.</t>
     <t id="4">Weist sofort alle Crewmitglieder an Bord (außer dem Kapitän) den Marines zu.</t>
   </page>

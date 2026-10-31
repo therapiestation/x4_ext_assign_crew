@@ -28,8 +28,8 @@ cdef("void ReassignPeople(UniverseID controllableid, CrewTransferContainer* reas
 
 local TEXTPAGE = 1739420
 local FALLBACK = {
-	[1] = "All → Service crew",
-	[2] = "All → Marines",
+	[1] = "Assign all crew as service crew",
+	[2] = "Assign all crew as marines",
 	[3] = "Immediately assign all crew members on board (except the captain) as service crew.",
 	[4] = "Immediately assign all crew members on board (except the captain) as marines.",
 }

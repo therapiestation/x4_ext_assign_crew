@@ -5,8 +5,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## What this is
 
 An X4: Foundations (game version 9.00) extension. It adds two buttons to the ship crew panel
-(Map > Information > Crew, see `Before.png`): "All → Service crew" and "All → Marines". They
+(Map > Information > Crew, see `Before.png`): "Assign all crew as service crew" and "Assign all crew as marines". They
 reassign everyone on board except the captain to that role, immediately (no Confirm step).
+
+Button labels are plain ASCII/Latin text on purpose: the game font does not render symbols such as `→`.
 
 Design decision: **no dependencies** on kuertee's UI Extensions or SirNukes' Mod Support APIs.
 Lua is loaded natively via `ui.xml` `<file>`.
